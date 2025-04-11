@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# ilio_app
+# Ourcq
 
 A new Flutter project.
 
@@ -15,6 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# Ourcq
->>>>>>> a640ca07c24120d9d014ee0240f13d230f36d391
+
+
