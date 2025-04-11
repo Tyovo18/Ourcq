@@ -1,0 +1,105 @@
+name: ilio_app
+description: Application Ourq
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 0.0.1+1
+
+environment:
+  sdk: '>=2.19.4 <4.0.0'
+
+dependencies:
+  flutter_map: ^8.0.0
+  flutter:
+    sdk: flutter
+  latlong2: ^0.9.1
+  english_words: ^4.0.0
+  provider: ^6.0.0
+  flutter_map_location_marker: ^10.0.0
+  permission_handler: ^10.0.0
+  geolocator: ^13.0.2
+  mobile_scanner: ^3.5.5
+  webview_flutter: ^4.4.2
+  webview_flutter_android: ^3.10.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: MabryPro
+      fonts:
+        - asset: assets/fonts/MabryPro-Regular.ttf
+  assets:
+    - assets/logo.png
+    - assets/image1.png
+    - assets/image2.png
+    - assets/image3.png
+    - assets/image4.png
+    - assets/bigimage1.png
+    - assets/bigimage2.png
+    - assets/bigimage3.png
+    - assets/bigimage4.png
+    - assets/titre.png
+    - assets/google_logo.png
+    - assets/profil.png
+    - assets/fond.png
+    - assets/logo-ver.png
+    - assets/cine.png
+    - assets/cine1.png
+    - assets/cine2.png
+    - assets/cine3.png
+    - assets/cine4.png
+    - assets/cite.png
+    - assets/cite1.png
+    - assets/cite2.png
+    - assets/cite3.png
+    - assets/philharmonie.png
+    - assets/philharmonie1.png
+    - assets/philharmonie2.png
+    - assets/philharmonie3.png
+    - assets/guitarist.png
+    - assets/micro.png
+    - assets/yoga.png
+    - assets/map.png
+    - assets/trompette.png
+    - assets/map2.png
+    - assets/photo.png
+    - assets/map3.png     
+    - assets/eteducanal.png
+    - assets/populaire1.png
+    - assets/populaire2.png
+    - assets/populaire3.png
+    - assets/populaire4.png
+    - assets/populaire5.png
+    - assets/critique.png
+    - assets/globej.png
+    - assets/glober.png
+    - assets/globev.png
+    - assets/marathonien.png
+    - assets/marathonieng.png
+    - assets/marathonienj.png
+    - assets/marathonienr.png
+    - assets/qrcode.png
+    - assets/rat.png
+    - assets/ratg.png
+    - assets/ratj.png
+    - assets/ratr.png
+    - assets/socialisateur.png
+    - assets/socialisateurR.png
+    - assets/socialisateurV.png
+    - assets/tropheej.png
+    - assets/tropheer.png
+    - assets/tropheev.png
+    - assets/tropheg.png
+    - assets/3-6.png
+    - assets/score.png
+    - assets/quiz.png
+    - assets/personnalize.png
+    
