@@ -20,3 +20,7 @@ Cette application nécessite Java17 :
 🔗 https://adoptium.net/en-GB/temurin/releases/?version=17
 
 Prendre la version JDK 17 (x64) - MSI Installer (Windows).
+
+Voici une vidéo de la demo : 
+
+🔗 https://drive.google.com/file/d/1Q8RjNmzqbh8Wv9UTMe1gFp-C38h_4N1w/view?usp=sharing 
